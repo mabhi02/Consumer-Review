@@ -1,0 +1,5 @@
+The totalSentiment value for simpleReview.txt is -2.92
+The star rating for simpleReview.txt is 1
+
+The totalSentiment value for 26WestReview.txt is 29.05
+The star rating for 26WestReview.txt is 4

@@ -1,0 +1,8 @@
+Here is the original review:
+This was a terrible restaurant! The pizza crust was too chewy, and I disliked the pasta. I would definitely not come back.
+
+Here is the corresponding fake review that is more positive than the original:
+This was a brilliant restaurant! The pizza crust was too delicious, and I disliked the pasta. I would definitely not come back. 
+
+Here is the corresponding fake review that is more negative than the original:
+This was a horrific restaurant! The pizza crust was too disgusting, and I disliked the pasta. I would definitely not come back. 

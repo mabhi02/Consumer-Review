@@ -1,0 +1,6 @@
+The sentiment value of the word "happily" is 2.32.
+The sentiment value of the word "terrible" is -3.38.
+The sentiment value of the word "cold" is -0.04.
+The sentiment value of the word "awkward" is -0.88.
+The sentiment value of the word "silly" is -0.97.
+The sentiment value of the word "fabulous" is 2.17.
